@@ -20,6 +20,7 @@ Inclusão: Todas as ações da DAO visam garantir que a tecnologia seja acessív
 Transparência: Todas as decisões são realizadas de forma aberta, com participação ativa da comunidade.
 Colaboração: O sucesso vem da colaboração entre os membros da DAO e as famílias beneficiadas.
 Empoderamento: Dar às pessoas as ferramentas para se auto-sustentarem e serem protagonistas de suas próprias vidas.
+
 5. Estrutura da DAO:
 
 Governança Descentralizada:
@@ -73,6 +74,7 @@ Fase 5: Expansão
 
 Após o sucesso do piloto, ampliar para outras comunidades, utilizando os feedbacks para ajustar a estrutura educacional e de suporte.
 Recompensar os membros da comunidade DAO que contribuíram para o sucesso com TechTokens.
+
 9. Sustentabilidade da DAO:
 A Tech4All DAO buscará financiamento de diferentes formas:
 
