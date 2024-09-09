@@ -1,5 +1,5 @@
 # Tech4All-DAO
-criando um conceito de uma DAO para o projeto da Dio
+ 
 
 ![image](https://github.com/user-attachments/assets/7b296dc7-3b8b-42a3-9988-c4db43c98e55)
 
